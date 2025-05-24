@@ -34,8 +34,9 @@ Digital Presence
 Example
 
 Request: Get Lewis Hamilton's Charitable Foundations
-Response:
-json
+
+Response: json
+
 {
   "status": "success",
   "data": {
